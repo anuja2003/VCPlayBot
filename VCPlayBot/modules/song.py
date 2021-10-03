@@ -290,17 +290,17 @@ async def ytmusic(client, message: Message):
     global is_downloading
     if is_downloading:
         await message.reply_text(
-            "Another download is in progress, try again after sometime."
+            "**තවත් බාගැනීමක් කෙරෙමින් පවතී, ටික වේලාවකට පසු නැවත උත්සාහ කරන්න😊.**"
         )
         return
 
     urlissed = get_text(message)
 
     pablo = await client.send_message(
-        message.chat.id, f"`Getting {urlissed} From Youtube Servers. Please Wait.`"
+        message.chat.id, f"`Youtube සේවාදායකයන්ගෙන් {urlissed} ලබා ගැනීමින් පවතී📥. කරුණාකර රැඳී සිටින්න🥰.`"
     )
     if not urlissed:
-        await pablo.edit("Invalid Command Syntax, Please Check Help Menu To Know More!")
+        await pablo.edit("වලංගු නොවන විධාන🚫 සින්ටැක්ස්, කරුණාකර වැඩි විස්තර දැන ගැනීමට /help මෙනුව පරීක්‍ෂා කරන්න!")
         return
 
     search = SearchVideos(f"{urlissed}", offset=1, mode="dict", max_results=1)
