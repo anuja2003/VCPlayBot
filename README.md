@@ -137,8 +137,11 @@ This project is protected by `GNU General Public Licence v3.0` license.
              
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank&font=Fira%20Code&center=true&width=380&height=50">
+ <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=you&font=Fira%20Code&center=true&width=380&height=50">
+  <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=all&font=Fira%20Code&center=true&width=380&height=50">
+   <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=for+using+VCplay+Bot&font=Fira%20Code&center=true&width=380&height=50">
   
   
