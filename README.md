@@ -25,7 +25,6 @@
 [![Deploy](https://spreecommerce.org/wp-content/uploads/2021/01/heroku-button-300x166.png)](https://heroku.com/deploy?template=https://github.com/QueenArzoo/VCPlayBot)
 
 
-The easiest way to deploy this Bot
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
@@ -119,3 +118,35 @@ If you donlt like to play in linked channel:
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 - [Awesome Bot](http://t.me/LaylaList) Channel bot list
 - [Dev](http://t.me/HEROGAMERS1) Hero owner of this bot
+
+
+## Thank you all for using Akina
+This project is protected by `GNU General Public Licence v3.0` license.
+
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+    
+    
+    
+<div align="center">
+  <img border-radius: 16px src="https://telegra.ph/file/492ecf8972eea2af1dda0.jpg" width="100" height="100"/>
+  
+   💞🎧 N . ₳ⁿuʝα Supulsara 🎧💞
+  
+  
+ #### සියල්ල අත් නොහැර , සියල්ල අත්හැරෙන බව දැනගෙන ජීවත් වෙන්න 🙂✊
+
+  </a>
+             
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+all+for+using+VCplay+Bot&font=Fira%20Code&center=true&width=380&height=50">
+  
+  
+  #### වැඩි විස්තර සඳහා...
+ <p align="center">
+<a href="http://wa.me/94712289566"><img title="Whatsapp" src="https://img.shields.io/badge/Watsapp-Contact-ft/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>
+ 
+ <p align="center">
+<a href="https://t.me/Anujasupulsara"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Contact-ft/Akina?color=blue&style=for-the-badge&logo=Telegram"></a>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Contact+by+Anuja+Supulsara&font=Fira%20Code&center=true&width=380&height=50">
