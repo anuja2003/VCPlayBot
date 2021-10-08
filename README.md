@@ -13,8 +13,8 @@
 
 
 ### How To Host
-       
-       #### 📌.ඔබට පහසුවෙන්ම Session Name එක Repl.it මඟින් ලබා ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
+     
+#### 📌.ඔබට පහසුවෙන්ම Session Name එක Repl.it මඟින් ලබා ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
 [![Run on Repl.it](https://repl.it/badge/github/PYMaster-ft/Akina)](https://replit.com/@QueenArzoo/VCPlayBot)
 
 [![Run on Repl.it](https://pngimage.net/wp-content/uploads/2018/06/scan-qr-code-png-1.png)](https://replit.com/@QueenArzoo/VCPlayBot)
