@@ -1,3 +1,22 @@
+# VCplayBot
+#Akina
+<div align="center">
+ <img border-radius: 16px src="https://telegra.ph/file/492ecf8972eea2af1dda0.jpg" width="100" height="100"/>
+  
+  </a>
+             
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Anuja+Supulsara&font=Fira%20Code&center=true&width=380&height=50">
+ 
+
+
+
+
+
+
+
+
+
 # How To Host
 The easiest way to deploy this Bot
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
