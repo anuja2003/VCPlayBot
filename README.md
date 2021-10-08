@@ -117,7 +117,7 @@ If you donlt like to play in linked channel:
 - [Dev](http://t.me/HEROGAMERS1) Hero owner of this bot
 
 
-## Thank you all for using Akina
+## Thank you all for using VCplayBot
 This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
