@@ -19,7 +19,7 @@ async def pmPermit(client: USER, message: Message):
                 return
             await USER.send_message(
                 message.chat.id,
-                "Hi there, This is a music assistant service .\n\n ❗️ Rules:\n   - No chatting allowed\n   - No spam allowed \n\n 👉 **SEND GROUP INVITE LINK OR USERNAME IF USERBOT CAN'T JOIN YOUR GROUP.**\n\n ⚠️ Disclamer: If you are sending a message here it means admin will see your message and join chat\n    - Don't add this user to secret groups.\n   - Don't Share private info here\n\n",
+                "Hello😇❤️ There,\n **This is a 💞🎧MUSIC & VIDEO W🌍RLD™🎧💞 Owner service** .\n\n **❗️ Rules**:-\n   - අනවශ්‍ය කතාබස් කිරීමට අවසර නැත🔇.\n   - No spam allowed🔇 \n\n 💢🌀👉 **Please pay attention🙃.**\n\n 💢🌀  ඔබ මෙතැන් සිට **N.Anuja Supulsara** වෙත පණිවිඩයක්💬 යවනවා නම් එයින් අදහස් වන්නේ **N.Anuja Supulsara** ඔබේ පණිවිඩය දැක කතාබස් කිරීමට සම්බන්ධ වන බවයි.\n    **- ⚠️Don't add this N.A.Supulsara to secret groups.**\n\n- **ස්තූතී 😇❤️**  \n\n",
             )
             return
 
@@ -45,7 +45,7 @@ async def autopmPermiat(client: USER, message: Message):
     chat_id = message.chat.id
     if not chat_id in pchats:
         pchats.append(chat_id)
-        await message.reply_text("Approoved to PM due to outgoing messages")
+        await message.reply_text("...")
         return
     message.continue_propagation()    
     
@@ -67,3 +67,4 @@ async def rmpmPermiat(client: USER, message: Message):
         await message.reply_text("Dispprooved to PM")
         return
     message.continue_propagation()
+    
