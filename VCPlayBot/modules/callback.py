@@ -39,7 +39,7 @@ async def cbstart(_, query: CallbackQuery):
                         "📣 My Channel", url=f"https://t.me/Musicworldanu")
                 ],[
                     InlineKeyboardButton(
-                        "🎰 Github ", url="https://github.com/QuennArzoo/VCPlayBot"
+                        "🎰 Github ", url="https://github.com/Anuja2003/VCPlayBot"
                     )
                 ]
             ]
