@@ -9,6 +9,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Anuja+Supulsara&font=Fira%20Code&center=true&width=380&height=50"
 </p>
 
+   </a> 
+   
 # How To Host
      
 #### 📌.ඔබට පහසුවෙන්ම Session Name එක Repl.it මඟින් ලබා ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
