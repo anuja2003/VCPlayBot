@@ -16,8 +16,8 @@
 
 [![Run on Repl.it](https://pngimage.net/wp-content/uploads/2018/06/scan-qr-code-png-1.png)](https://replit.com/@QueenArzoo/VCPlayBot)
    
- 
- ## Heroku Deployment <img src="./etc/Kenpurple.gif" width="40px">
+
+## Heroku Deployment <img src="./etc/Kenpurple.gif" width="40px">
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable)
  
 #### 📌.Session Name එක ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
