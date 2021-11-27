@@ -3,6 +3,7 @@
 <div align="center">
  <img border-radius: 16px src="https://telegra.ph/file/492ecf8972eea2af1dda0.jpg" width="100" height="100"/>
   
+ <div align="center"><img src="https://profile-counter.glitch.me/Anuja2003/count.svg" /><br>Profile Viewers</div>
   </a>
              
 <p align="center">
